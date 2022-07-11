@@ -1,0 +1,43 @@
+Error 100 : At rank when the signedininfo label "error"	---	Sign In Process			---	Public Methods
+Error 101 : At Email					---	Registeration Process		---	public Methods
+Error 102 : At University Number			---	Registeration Process		---	Public Methods
+Error 103 : At @ or digit check in limit Checking	---	RentingProcess			---	public Methods	
+............................................................................................................................
+Error  : At loginConnection.Open() 			---	LoginProcess			---	public Methods
+Error 2 : 	
+...........................................................................................................................................
+Error 1 : Program Initialization			---	public MainWindow()				---	MainWindow.XAML
+Error 2 : Non Static Methods				---	TapTransition					---	MainWindow.XAML
+Error 3 : Non Static Methods				---	InitialazingRegisterRankComboBox		---	MainWindow.XAML
+Error 4 : Login / Register Buttons			---	button_LoginToRegister_Click			---	MainWindow.XAML
+Error 5 : Login / Register Buttons			---	button_RegisterToLogin_Click			---	MainWindow.XAML
+Error 6 : Login / Register Buttons			---	button_Login_Click				---	MainWindow.XAML
+Error 7 : Login / Register Buttons			---	button_Register_Click				---	MainWindow.XAML
+Error 8 : Login / Register Buttons			---	button_SignOut_Click				---	MainWindow.XAML
+Error 9 : Student Buttons				---	button_StudentBooks_Click			---	MainWindow.XAML
+Error 10 : Student Buttons				---	button_StudentMyBooks_Click			---	MainWindow.XAML
+Error 11 : Teacher Buttons				---	button_TeacherBooks_Click			---	MainWindow.XAML
+Error 12 : Teacher Buttons				---	button_TeacherMyBooks_Click			---	MainWindow.XAML
+Error 13 : Admin Buttons				---	button_AdminBooks_Click				---	MainWindow.XAML
+Error 14 : Admin Buttons				---	button_AdminMyBooks_Click			---	MainWindow.XAML
+Error 15 : Admin Buttons				---	button_AdminRankApproval_Click			---	MainWindow.XAML
+Error 16 : Admin Buttons				---	button_AdminReturnedBooksList_Click		---	MainWindow.XAML
+Error 17 : Admin Buttons				---	button_AdminAllUsers_Click			---	MainWindow.XAML
+Error 18 : Non Static Methods				---	textbox_RegisterMobileNumber_PreviewTextInput	---	MainWindow.XAML
+Error 19 : Non Static Methods				---	textbox_RegisterMobileNumber_PreviewKeyDown	---	MainWindow.XAML
+Error 20 : Main Information Method			---	GettingInfoFromSql				---	PublicMethods
+Error 21 : Login Methods				---	LoginRules					---	PublicMethods
+Error 22 : Login Methods				---	LoginProcess					---	PublicMethods
+Error 23 : Register Methods				---	RegisterationRules				---	PublicMethods
+Error 24 : Register Methods				---	RegisterExisitingUsernameCheckingAndProcess	---	PublicMethods
+Error 25 : Books Methods				---	RentingProcess					---	PublicMethods
+Error 26 : Books Methods				---	SearchBooks					---	PublicMethods
+Error 27 : Books Methods				---	SavingRentedBooks				---	PublicMethods
+Error 28 : MyBooks Methods				---	SearchMyBooks					--- 	PublicMethods
+Error 29 : MyBooks Methods				---	ReturnBooksProcess				--- 	PublicMethods
+Error 30 : RankApproval Methods				---	RankApproval					---	PublicMethods
+Error 31 : RankApproval Methods				---	RankRequestedShowing				---	PublicMethods
+Error 32 : BooksApproval Methods			---	ReturnedBookApprovalSearchAndRefresh		---	PublicMethods
+Error 33 : BooksApproval Methods			---	ApprovingReturnedBook				---	PublicMethods
+Error 34 : ALL BOOKS METHODS				---	SearchAllBooksAdmin				---	PublicMethods
+

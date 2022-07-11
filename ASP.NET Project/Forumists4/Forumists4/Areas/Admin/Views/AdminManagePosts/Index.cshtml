@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Forumists4.Models.Posts>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    @*<a asp-action="Create">Create New</a>*@
+</p>
+<table class="table text-center table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Creator.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+             @{
+                         string parameterValue = item.Content.ToString();
+                        if (parameterValue.Length > 100)
+                        {
+                            
+                         parameterValue = parameterValue.Substring(0, 100) + ". . . "; 
+                        }
+          }
+            <td  style="word-wrap: break-word;min-width: 160px;max-width: 160px;">
+                @Html.DisplayFor(modelItem => parameterValue)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Creator.Email)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id"  class="btn btn-primary">Edit Post</a> |
+                <a asp-action="Details" asp-route-id="@item.Id"  class="btn btn-primary">Post Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id"  class="btn btn-danger">Delete Post</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

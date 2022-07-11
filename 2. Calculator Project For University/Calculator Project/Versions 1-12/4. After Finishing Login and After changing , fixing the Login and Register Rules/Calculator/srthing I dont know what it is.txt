@@ -1,0 +1,1 @@
+SelectionChanged="TabControl_SelectionChanged"

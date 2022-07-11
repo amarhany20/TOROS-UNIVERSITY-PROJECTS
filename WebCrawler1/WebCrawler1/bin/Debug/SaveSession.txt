@@ -1,0 +1,9 @@
+﻿TotalTime:0.40
+TotalCrawledUrls:173
+TotalFoundUrls:5683
+urlFindingSpeed:14,038.97
+crawlSpeed:427.37
+failedUrls:1
+totalBlocked:424
+https://stackoverflow.com/questions/54559236/best-way-to-run-a-background-task-with-timer
+False

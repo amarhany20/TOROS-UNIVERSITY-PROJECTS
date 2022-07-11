@@ -1,0 +1,5 @@
+tabControl.Visibility= System.Windows.Visibility.Hidden;...to hide a window
+tabControl.IsEnabled = false;...To disable a Window
+var allCalculationsInInputPanel = new DataTable().Compute(txt_InputPanel.Text.ToString(), null); (That code is used to calculate )
+PreviewTextInput="PreviewTextInput"
+"[^0-9.-.+./.*.-]+"

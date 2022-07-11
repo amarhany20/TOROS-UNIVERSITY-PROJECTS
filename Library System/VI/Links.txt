@@ -1,0 +1,10 @@
+1.Disabling Space from C# : https://stackoverflow.com/questions/42270283/how-disallow-space-blank-charachter-from-text-box-input-by-keyboard
+private void textBox_PreviewKeyDown(object sender, KeyEventArgs e)
+{
+    if (e.Key == Key.Space)
+    {
+        e.Handled = true;
+    }
+}
+..............................................................................................................................
+2.

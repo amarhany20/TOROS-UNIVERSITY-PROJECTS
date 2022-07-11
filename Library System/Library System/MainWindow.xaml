@@ -1,0 +1,125 @@
+﻿<Window x:Class="Library_System.MainWindow"
+        ResizeMode="NoResize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_System"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1300">
+    <Grid>
+        <TabControl Name="main_tap" HorizontalAlignment="Left" Height="749" Margin="10,10,0,0" VerticalAlignment="Top" Width="1272">
+            <TabItem x:Name="tab_Login" Width="100" Header="Login">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Image Source="books_shelf_graffiti_125860_1920x1080.jpg" Stretch="Fill" Margin="-13,-35,-15,-15"/>
+                    <TextBox x:Name="textbox_LoginUsername" HorizontalAlignment="Left" Height="25" Margin="142,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" MaxLength="50"/>
+                    <PasswordBox x:Name="passwordbox_LoginPassword" Height="25" Width="150" HorizontalAlignment="Left" Margin="142,95,0,0" VerticalAlignment="Top" MaxLength="50"/>
+                    <Label x:Name="label_LoginUsername" Content="Username (ID or Email) :" HorizontalAlignment="Left" Margin="0,65,0,0" VerticalAlignment="Top" Height="25" Foreground="White"/>
+                    <Label x:Name="label_LoginPassword" Content="Password :" HorizontalAlignment="Left" Margin="0,95,0,0" VerticalAlignment="Top" Height="25" Foreground="White"/>
+                    <Button x:Name="button_Login" Content="Login" HorizontalAlignment="Left" Margin="331,65,0,0" VerticalAlignment="Top" Width="148" Height="55" IsDefault="True" Click="button_Login_Click" Background="White"/>
+                    <Button x:Name="button_LoginToRegister" Content="To Register Click Here" HorizontalAlignment="Left" Margin="331,125,0,0" VerticalAlignment="Top" Width="148" BorderBrush="#FFDDDDDD" Background="White" Click="button_LoginToRegister_Click" />
+                    <Label x:Name="label_Title" Content="Toros University Library Managment System" HorizontalAlignment="Left" Margin="365,10,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Foreground="White"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_Register" Width="100" Header="Register">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Image Source="books_shelf_graffiti_125860_1920x1080.jpg" Stretch="Fill" Margin="-13,-35,-15,-15"/>
+                    <TextBox x:Name="textbox_RegisterName"  HorizontalAlignment="Left" Height="25" Margin="142,34,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" MaxLength="50"/>
+                    <TextBox x:Name="textbox_RegisterSurname"  HorizontalAlignment="Left" Height="25" Margin="142,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" MaxLength="50"/>
+                    <TextBox x:Name="textbox_RegisterUsername"  HorizontalAlignment="Left" Height="25" Margin="142,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" MaxLength="49"/>
+                    <TextBox x:Name="textbox_RegisterMobileNumber" HorizontalAlignment="Left" Height="25"  Margin="142,125,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="150" PreviewTextInput="textbox_RegisterMobileNumber_PreviewTextInput" MaxLength="10" PreviewKeyDown="textbox_RegisterMobileNumber_PreviewKeyDown"/>
+                    <PasswordBox x:Name="passwordbox_RegisterPassword"  Height="25" Width="150" HorizontalAlignment="Left" Margin="142,155,0,0" VerticalAlignment="Top"/>
+                    <PasswordBox x:Name="passwordbox_RegisterRepeatPassword"  Height="25" Width="150" HorizontalAlignment="Left" Margin="142,185,0,0" VerticalAlignment="Top"/>
+                    <ComboBox x:Name="combobox_RegisterUserRank" HorizontalAlignment="Left" Margin="142,215,0,0" VerticalAlignment="Top" Width="150" Height="25"/>
+                    <Button x:Name="button_Register"  Content="Register" HorizontalAlignment="Left" Margin="331,65,0,0" VerticalAlignment="Top" Width="148" Height="55" IsDefault="True" Click="button_Register_Click" Background="White" />
+                    <Button x:Name="button_RegisterToLogin"  Content="To Login Click Here" HorizontalAlignment="Left" Margin="331,125,0,0" VerticalAlignment="Top" Width="148" BorderBrush="#FFDDDDDD" Background="White" Click="button_RegisterToLogin_Click" />
+                    <Label x:Name="label_RegisterName"  Content="Name :" HorizontalAlignment="Left" Margin="0,34,0,0" VerticalAlignment="Top" Height="25" Foreground="White"/>
+                    <Label x:Name="label_RegisterSurname"  Content="Surname :" HorizontalAlignment="Left" Margin="0,65,0,0" VerticalAlignment="Top" Height="25" Foreground="White"/>
+                    <Label x:Name="label_RegisterUsername"  Content="Username (ID or Email) :" HorizontalAlignment="Left" Margin="0,95,0,0" VerticalAlignment="Top" Height="25" Foreground="White"/>
+                    <Label x:Name="label_RegisterMobileNumber" Height="25" Content="Mobile Number :" HorizontalAlignment="Left" Margin="0,125,0,0" VerticalAlignment="Top" Width="128" Foreground="White"/>
+                    <Label x:Name="label_RegisterPassword"  Content="Password :" HorizontalAlignment="Left" Margin="0,155,0,0" VerticalAlignment="Top" Height="25" Foreground="White"/>
+                    <Label x:Name="label_RegisterTitle"  Content="Toros University Library Managment System" HorizontalAlignment="Left" Margin="365,10,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Foreground="White"/>
+                    <Label x:Name="label_RegisterRepeatPassword"  Content="Repeat Password :" HorizontalAlignment="Left" Margin="0,185,0,0" VerticalAlignment="Top" Height="25" Foreground="White"/>
+                    <Label x:Name="label_RegisterRank"  Content="Rank :" HorizontalAlignment="Left" Margin="0,215,0,0" VerticalAlignment="Top" Height="25" Foreground="White"/>
+
+
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_Student" Width="100" Header="Student" >
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Image Source="books_shelf_graffiti_125860_1920x1080.jpg" Stretch="Fill" Margin="-13,-35,-15,-15"/>
+                    <Button x:Name="button_StudentBooks" Content="Books" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="130" Height="44" FontSize="20" Click="button_StudentBooks_Click" Background="White"/>
+                    <Button Name="button_StudentMyBooks" Width="130" Height="44" Content="My Books" HorizontalAlignment="Left" Margin="1126,10,0,0" VerticalAlignment="Top" FontSize="20" Click="button_StudentMyBooks_Click" Background="White" />
+                    <Label Content="Late Books :" HorizontalAlignment="Left" Margin="10,415,0,0" VerticalAlignment="Top" Width="262" Background="White" FontSize="16"/>
+                    <DataGrid x:Name="datagrid_LateBooks" HorizontalAlignment="Left" Height="270" Margin="10,451,0,0" VerticalAlignment="Top" Width="1246" Background="White" IsReadOnly="True"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tab_Teacher" Width="100" Header="Teacher">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Image Source="books_shelf_graffiti_125860_1920x1080.jpg" Stretch="Fill" Margin="-13,-35,-15,-15"/>
+                    <Button x:Name="button_TeacherBooks" Content="Books" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="130" Height="44" FontSize="20" Click="button_TeacherBooks_Click" Background="White"/>
+                    <Button Name="button_TeacherMyBooks" Width="130" Height="44" Content="My Books" HorizontalAlignment="Left" Margin="1126,10,0,0" VerticalAlignment="Top" FontSize="20" Click="button_TeacherMyBooks_Click" Background="White" />
+                </Grid>
+
+            </TabItem>
+            <TabItem x:Name="tab_Admin" Width="100" Header="Admin">
+                <TabItem.Background>
+                    <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                        <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </TabItem.Background>
+                <Grid Background="#FFE5E5E5">
+                    <Image Source="books_shelf_graffiti_125860_1920x1080.jpg" Stretch="Fill" Margin="-13,-35,-15,-15"/>
+                    <Button x:Name="button_AdminAllUsers" Width="265" Height="44" Content="All Users" HorizontalAlignment="Left" Margin="502,52,0,0" VerticalAlignment="Top" FontSize="20" Click="button_AdminAllUsers_Click" Background="White" />
+                    <Button x:Name="button_AdminAllBooks" Width="265" Height="44" Content="All Books" HorizontalAlignment="Left" Margin="502,101,0,0" VerticalAlignment="Top" FontSize="20" Click="button_AdminAllBooks_Click" Background="White"  />
+                    <Button x:Name="button_AdminBooksHistory" Content="Books History" HorizontalAlignment="Left" Margin="502,150,0,0" VerticalAlignment="Top" Width="265" Height="44" FontSize="20" Click="button_AdminBooksHistory_Click" Background="White" />
+                    <Button x:Name="button_AdminRankApproval" Width="265" Height="44" Content="Rank Approval" HorizontalAlignment="Left" Margin="1001,98,0,0" VerticalAlignment="Top" FontSize="20" Click="button_AdminRankApproval_Click" Background="White" />
+                    <Button x:Name="button_AdminReturnedBooksList" Width="265" Height="44" Content="Returned Books List" HorizontalAlignment="Left" Margin="1001,147,0,0" VerticalAlignment="Top" FontSize="20" Click="button_AdminReturnedBooksList_Click" Background="White"  />
+                    <Button x:Name="button_AdminBooks" Content="Renting Books" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top" Width="265" Height="44" FontSize="20" RenderTransformOrigin="0.443,0.459" Click="button_AdminBooks_Click" Background="White"/>
+                    <Button Name="button_AdminMyBooks" Width="265" Height="44" Content="Returning Books" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top" FontSize="20" Click="button_AdminMyBooks_Click" Background="White" />
+                    <Button x:Name="button_TimePeriodEfit" Content="Time Period Edit" HorizontalAlignment="Left" Margin="1001,49,0,0" VerticalAlignment="Top" Width="265" Height="44" FontSize="20" Background="White" Click="button_TimePeriodEfit_Click"/>
+                    <Label Content="Renting and Returning Books :" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="265" Foreground="Black" FontSize="18" Background="White"/>
+                    <Label Content="Editing Database :" HorizontalAlignment="Left" Margin="502,10,0,0" VerticalAlignment="Top" Width="265" Foreground="Black" FontSize="18" Background="White"/>
+                    <Label Content="Requests :" HorizontalAlignment="Left" Margin="1001,10,0,0" VerticalAlignment="Top" Width="265" Foreground="Black" FontSize="18" Background="White"/>
+                </Grid>
+            </TabItem>
+
+
+        </TabControl>
+        <Label x:Name="label_SignedInNameAndSurname" Content="Welcome" HorizontalAlignment="Left" Margin="925,0,0,0" VerticalAlignment="Top" Width="260" Height="32" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="label_SignedInID" Content="" HorizontalAlignment="Left" Margin="1190,0,0,0" VerticalAlignment="Top" Width="92" Height="32" FontWeight="Bold" Foreground="White"/>
+        <Button x:Name="button_SignOut" Content="Sign Out" HorizontalAlignment="Left" Margin="830,5,0,0" VerticalAlignment="Top" Width="90" Height="27" Visibility="Hidden" Click="button_SignOut_Click"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="books_shelf_graffiti_125860_1920x1080.jpg"/>
+        </Grid.Background>
+
+
+
+    </Grid>
+
+</Window>

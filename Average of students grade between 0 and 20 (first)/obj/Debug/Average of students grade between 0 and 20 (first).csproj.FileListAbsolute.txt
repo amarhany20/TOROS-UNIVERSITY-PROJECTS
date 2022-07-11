@@ -1,0 +1,7 @@
+C:\Users\Ammar\Desktop\Average of students grade between 0 and 20 (first)\Average of students grade between 0 and 20 (first)\bin\Debug\Average of students grade between 0 and 20 (first).exe.config
+C:\Users\Ammar\Desktop\Average of students grade between 0 and 20 (first)\Average of students grade between 0 and 20 (first)\bin\Debug\Average of students grade between 0 and 20 (first).exe
+C:\Users\Ammar\Desktop\Average of students grade between 0 and 20 (first)\Average of students grade between 0 and 20 (first)\bin\Debug\Average of students grade between 0 and 20 (first).pdb
+C:\Users\Ammar\Desktop\Average of students grade between 0 and 20 (first)\Average of students grade between 0 and 20 (first)\obj\Debug\Average of students grade between 0 and 20 (first).csprojAssemblyReference.cache
+C:\Users\Ammar\Desktop\Average of students grade between 0 and 20 (first)\Average of students grade between 0 and 20 (first)\obj\Debug\Average of students grade between 0 and 20 (first).csproj.CoreCompileInputs.cache
+C:\Users\Ammar\Desktop\Average of students grade between 0 and 20 (first)\Average of students grade between 0 and 20 (first)\obj\Debug\Average of students grade between 0 and 20 (first).exe
+C:\Users\Ammar\Desktop\Average of students grade between 0 and 20 (first)\Average of students grade between 0 and 20 (first)\obj\Debug\Average of students grade between 0 and 20 (first).pdb

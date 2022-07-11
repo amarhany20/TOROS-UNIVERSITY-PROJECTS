@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Calculator</title>
+    <link rel="stylesheet" href="../StyleSheets/Programmer.css">
+</head>
+
+<body id="mainBody">
+    <div id="Layout">
+        <h1 id="heading">Online Calculator</h1>
+        <div id="NavBar">
+            <a href="../index.html" class="navLink">Standard</a>
+            <a href="./programmer.html" class="navLink">Programmer</a>
+            <a href="./Scientific.html" class="navLink">Scientific</a>
+        </div>
+    </div>
+    <div id="programmerDiv">
+        <br>
+        <label for="programmerMainResult">Result:</label>
+
+        <input type="text" name="" id="ProgrammerMainResult" readonly><br><br>
+
+        <label style="font-size: 30px;" for="ProgrammerMainText">Display:</label>
+        <input id="ProgrammerMainText" type="text">
+
+        <br>
+        <button class="ProgrammerButtons" id="ProgrammerNum1">1</button>
+        <button class="ProgrammerButtons" id="ProgrammerNum2">2</button>
+        <button class="ProgrammerButtons" id="ProgrammerNum3">3</button>
+        <button class="ProgrammerButtons" id="ProgrammerA">a</button><br>
+        <button class="ProgrammerButtons" id="ProgrammerNum4">4</button>
+        <button class="ProgrammerButtons" id="ProgrammerNum5">5</button>
+        <button class="ProgrammerButtons" id="ProgrammerNum6">6</button>
+        <button class="ProgrammerButtons" id="ProgrammerB" >b</button><br>
+        <button class="ProgrammerButtons" id="ProgrammerNum7">7</button>
+        <button class="ProgrammerButtons" id="ProgrammerNum8">8</button>
+        <button class="ProgrammerButtons" id="ProgrammerNum9">9</button>
+        <button class="ProgrammerButtons" id="ProgrammerC"  >c</button><br>
+        <button class="ProgrammerButtons" id="ProgrammerDot">.</button>
+        <button class="ProgrammerButtons" id="ProgrammerNum0">0</button>
+        <button class="ProgrammerButtons" id="ProgrammerF">f</button>
+        <button  id="ProgrammerD"  class="ProgrammerButtons" >d</button><br>
+        <button class="ProgrammerButtons" id="ProgrammerDel">Del</button>
+        <button    class="ProgrammerButtons"  style="position: relative; top: 5px;" ></button>
+        <button class="ProgrammerButtons" id="ProgrammerCreset">C</button>
+        <button class="ProgrammerButtons"  id="ProgrammerE"  >e</button><br>
+
+
+
+        <div id="ProgrammerFuncButtonsDiv">
+            <button class="ProgrammerFuncButtons" id="ProgrammerBinaryToDecimal">Binary To Decimal</button><br>
+            <button class="ProgrammerFuncButtons" id="ProgrammerDecimalToBinary">Decimal To Binary</button><br>
+            <button class="ProgrammerFuncButtons" id="ProgrammerHexToDecimal">Hex To Decimal</button><br>
+            <button class="ProgrammerFuncButtons" id="ProgrammerDecimalToHex">Decimal To Hex</button>
+        </div>
+    </div>
+
+
+    <script src="../Scripts/programmer.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+https://www.tutlane.com/tutorial/csharp/csharp-string-trim-method-trimstart-trimend
+https://fsymbols.com/keyboard/windows/alt-codes/list/
+https://stackoverflow.com/questions/14769973/check-if-the-first-element-of-a-string-is-positive-integer
+https://docs.microsoft.com/en-us/dotnet/standard/io/how-to-write-text-to-a-file
+https://stackoverflow.com/questions/8255533/how-to-add-new-line-into-txt-file
+https://www.codeproject.com/Questions/1126867/How-to-check-only-capital-letter-and-numbers-symbo
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/1d1df281-468e-4264-a6e2-0109a2898c1b/coundnt-edit-the-isvisible-property-in-wpf?forum=wpf
+https://stackoverflow.com/questions/30134180/encode-and-decode-passwords-in-wpf-applications
+https://www.codeproject.com/Questions/80662/Button-to-work-as-Backspace-key-in-C
+https://stackoverflow.com/questions/2859111/c-sharp-math-calculator
+https://stackoverflow.com/questions/1268552/how-do-i-get-a-textbox-to-only-accept-numeric-input-in-wpf
+https://stackoverflow.com/questions/1631820/regular-expression-to-match-digits-and-basic-math-operators
+https://stackoverflow.com/questions/1268552/how-do-i-get-a-textbox-to-only-accept-numeric-input-in-wpf ("[^0-9.-.+./.*.-]+")
+https://stackoverflow.com/questions/1268552/how-do-i-get-a-textbox-to-only-accept-numeric-input-in-wpf
+https://stackoverflow.com/questions/6479543/how-to-add-lines-of-a-text-file-into-individual-items-on-a-listbox-c

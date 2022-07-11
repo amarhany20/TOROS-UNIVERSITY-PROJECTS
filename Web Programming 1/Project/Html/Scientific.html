@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Calculator</title>
+    <link rel="stylesheet" href="../StyleSheets/Scientific.css">
+</head>
+
+<body id="mainBody">
+    <div id="Layout">
+        <h1 id="heading">Online Calculator</h1>
+        <div id="NavBar">
+            <a href="../index.html" class="navLink">Standard</a>
+            <a href="./programmer.html" class="navLink">Programmer</a>
+            <a href="./Scientific.html" class="navLink">Scientific</a>
+        </div>
+    </div>
+
+    <div id="ScientificDiv">
+        <br>
+        <label for="ScientificMainResult">Result:</label>
+
+        <input type="text" name="" id="ScientificMainResult" readonly><br><br>
+
+        <label style="font-size: 30px;" for="ScientificMainText">Display:</label>
+        <input id="ScientificMainText" type="text">
+
+        <br>
+        <button class="ScientificButtons" id="ScientificNum1"> 1</button>
+        <button class="ScientificButtons" id="ScientificNum2"> 2</button>
+        <button class="ScientificButtons" id="ScientificNum3"> 3</button>
+        <button class="ScientificButtons" id="ScientificSin"> Sin</button><br>
+        <button class="ScientificButtons" id="ScientificNum4"> 4</button>
+        <button class="ScientificButtons" id="ScientificNum5"> 5</button>
+        <button class="ScientificButtons" id="ScientificNum6"> 6</button>
+        <button class="ScientificButtons" id="ScientificCos"> Cos</button><br>
+        <button class="ScientificButtons" id="ScientificNum7"> 7</button>
+        <button class="ScientificButtons" id="ScientificNum8"> 8</button>
+        <button class="ScientificButtons" id="ScientificNum9"> 9</button>
+        <button class="ScientificButtons" id="ScientificTanh"> Tanh</button><br>
+        <button class="ScientificButtons" id="ScientificDot"> .</button>
+        <button class="ScientificButtons" id="ScientificNum0"> 0</button>
+        <button class="ScientificButtons" id="ScientificXN"> X<sup>n</sup></button>
+        <button class="ScientificButtons" id="ScientificLog"> Log</button><br>
+        <button class="ScientificButtons" id="ScientificDel"> Del</button>
+        <button class="ScientificButtons" id="ScientificN"> N!</button>
+        <button class="ScientificButtons" id="ScientificCreset"> C</button>
+        <button class="ScientificButtons" id="ScientificExp"> exp</button><br>
+
+
+
+        <div id="ScientificFuncButtonsDiv">
+            <button class="ScientificFuncButtons" id="ScientificValidaty">Validity of each input</button><br>
+            <button class="ScientificFuncButtons" id="ScientificChangeSign">Changing sign</button><br>
+        </div>
+    </div>
+
+
+    <script src="../Scripts/Scientific.js"></script>
+</body>
+
+</html>

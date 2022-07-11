@@ -1,0 +1,73 @@
+#mainBody {
+    text-align: center;
+}
+#heading {
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    width: 400px;
+    margin: 20px auto;
+}
+#NavBar {
+    
+    letter-spacing: 2px;
+    font-size: 20px;
+    background-color: #4f81bd;
+    padding: 10px;
+    border: 2px solid #3b6292;
+    border-radius: 10px;
+    white-space: nowrap;
+    min-width: 650px;
+
+}
+.navLink {
+    text-decoration: none;
+    color: white;
+    padding : 0% 10%;
+}
+#programmerDiv {
+    margin: 50px auto;
+    width: 400px;
+    /* background-color: rgba(28, 175, 194, 0.226); */
+    /* border: 3px solid #3b6292; */
+    border: 3px solid black;
+}
+#ProgrammerMainResult {
+    margin: 20px ,auto;
+    width: 300px;
+    font-size: 25px;
+    padding: 3px ;
+    
+}
+#ProgrammerMainText {
+    padding: 10px 10px;
+    margin:5px 0px;
+    /* border: 1px solid #3b6292; */
+    width:350px;
+    font-size: 20px;
+}
+.ProgrammerButtons {
+    width: 90px;
+    height: 57px;
+    font-size: 20px;
+    padding: 15px;
+    /* background-color: #4f81bd;
+    color: white; */
+    margin: 2px;
+}
+#ProgrammerFuncButtonsDiv{
+    margin-top: 10px;
+}
+.ProgrammerFuncButtons {
+    margin-bottom:5px;
+    /* background-color: #4f81bd;
+    color: white; */
+}
+#ProgrammerDel{
+    position: relative;
+    bottom: 2px;
+    font-size: 15px;
+    height: 56px;
+}
+.ProgrammerFuncButtons {
+font-size: 20px;
+}

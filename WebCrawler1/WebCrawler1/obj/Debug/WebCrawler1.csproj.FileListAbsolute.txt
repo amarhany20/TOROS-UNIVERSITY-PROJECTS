@@ -1,0 +1,52 @@
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.exe.config
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.exe
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.pdb
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\EntityFramework.dll
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\EntityFramework.xml
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csprojAssemblyReference.cache
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\MainWindow.g.cs
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\App.g.cs
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1_Content.g.cs
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1_MarkupCompile.cache
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1_MarkupCompile.lref
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\MainWindow.baml
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.g.resources
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.Properties.Resources.resources
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csproj.GenerateResource.cache
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csproj.CopyComplete
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.exe
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.pdb
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ammar\OneDrive\WebCrawler1\WebCrawler1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.exe.config
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.exe
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.pdb
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\EntityFramework.dll
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\EntityFramework.xml
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csprojAssemblyReference.cache
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\MainWindow.g.cs
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\App.g.cs
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1_Content.g.cs
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1_MarkupCompile.cache
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1_MarkupCompile.lref
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\MainWindow.baml
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.g.resources
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.Properties.Resources.resources
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csproj.GenerateResource.cache
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csproj.CopyComplete
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.exe
+C:\Users\Ammar\OneDrive\195050902_Ammar Hany Ezeldin Abdelrazik_Object Oriented Project\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.pdb

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Teacher.TeacherMainMenu">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="2" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="802" height="582"/>
+    </constraints>
+    <properties/>
+    <border type="none" title="Teacher Main Menu" title-justification="2" title-position="3">
+      <font name="Lucida Sans Typewriter" size="16"/>
+    </border>
+    <children>
+      <component id="e3994" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="16"/>
+          <text value="User: User1"/>
+        </properties>
+      </component>
+      <grid id="ba35f" layout-manager="GridLayoutManager" row-count="6" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="16e5c" class="javax.swing.JButton" binding="button_Grades">
+            <constraints>
+              <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Grades"/>
+            </properties>
+          </component>
+          <component id="edfb6" class="javax.swing.JButton" binding="button_ComfirmCourseSelection">
+            <constraints>
+              <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Confirm Course Selection"/>
+            </properties>
+          </component>
+          <component id="ecbe4" class="javax.swing.JButton" binding="button_CourseManagement">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Course Management"/>
+            </properties>
+          </component>
+          <component id="f4b07" class="javax.swing.JButton" binding="button_DepartmentManagement">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Department Management"/>
+            </properties>
+          </component>
+          <component id="21b20" class="javax.swing.JButton" binding="button_FacultyManagement">
+            <constraints>
+              <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Faculty Management"/>
+            </properties>
+          </component>
+          <component id="34ce3" class="javax.swing.JButton" binding="button_SetSupervisor">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Set Supervisor"/>
+            </properties>
+          </component>
+          <component id="57dd7" class="javax.swing.JButton" binding="TeacherOpenCourses">
+            <constraints>
+              <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Open Courses For Selection"/>
+            </properties>
+          </component>
+          <component id="2b1c6" class="javax.swing.JButton" binding="button_ExamSchedule">
+            <constraints>
+              <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Exam Schedule"/>
+            </properties>
+          </component>
+          <component id="1e25b" class="javax.swing.JButton" binding="button_WeeklySchedule">
+            <constraints>
+              <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Weekly Schedule"/>
+            </properties>
+          </component>
+          <component id="3d531" class="javax.swing.JButton" binding="button_StudentsManagement">
+            <constraints>
+              <grid row="4" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Students Management"/>
+            </properties>
+          </component>
+          <component id="12bbc" class="javax.swing.JButton" binding="button_AnnouncementManagement">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <text value="Announcement Management"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <component id="69ee0" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="16"/>
+          <text value="ID : 1"/>
+        </properties>
+      </component>
+      <component id="2b90b" class="javax.swing.JButton" binding="button_LogOut">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="16"/>
+          <text value="Log Out"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

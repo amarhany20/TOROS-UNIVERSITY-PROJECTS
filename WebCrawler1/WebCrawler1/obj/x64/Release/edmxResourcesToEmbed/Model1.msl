@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WebCrawlerModelStoreContainer" CdmEntityContainer="DBWebCrawlerDatabase">
+    <EntitySetMapping Name="CrawledUrlsTables">
+      <EntityTypeMapping TypeName="WebCrawlerModel.CrawledUrlsTable">
+        <MappingFragment StoreEntitySet="CrawledUrlsTable">
+          <ScalarProperty Name="TryCounter" ColumnName="TryCounter" />
+          <ScalarProperty Name="HostUrl" ColumnName="HostUrl" />
+          <ScalarProperty Name="IsCrawled" ColumnName="IsCrawled" />
+          <ScalarProperty Name="UrlHash" ColumnName="UrlHash" />
+          <ScalarProperty Name="UrlName" ColumnName="UrlName" />
+          <ScalarProperty Name="DiscoverDate" ColumnName="DiscoverDate" />
+          <ScalarProperty Name="LinkDepthLevel" ColumnName="LinkDepthLevel" />
+          <ScalarProperty Name="ParentUrlHash" ColumnName="ParentUrlHash" />
+          <ScalarProperty Name="LastCrawlingDate" ColumnName="LastCrawlingDate" />
+          <ScalarProperty Name="SourceCode" ColumnName="SourceCode" />
+          <ScalarProperty Name="FetchedTime" ColumnName="FetchedTime" />
+          <ScalarProperty Name="CrawledPageTitle" ColumnName="CrawledPageTitle" />
+          <ScalarProperty Name="CompressionPercent" ColumnName="CompressionPercent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

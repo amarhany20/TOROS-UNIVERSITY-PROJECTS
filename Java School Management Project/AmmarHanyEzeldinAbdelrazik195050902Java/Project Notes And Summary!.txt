@@ -1,0 +1,7 @@
+Here is my full Java Project According to all the requirements.
+
+It is a very big project. Spent more than 100 Hours on it from 30 May 2022 to 24 June 2022. Used about 62 Classes Including 2 Model Classes.
+
+My Database is fully built on Foreign Keys and My Queries Are all built using Left Join. 
+
+My Project Contains More than 5000 Lines Of Codes. So, I hope it is enough and clear. Thank you for this Semester and for your Efforts.

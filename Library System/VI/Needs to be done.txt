@@ -1,0 +1,104 @@
+1. Admin Panel WITH EVERYTHING
+2. Taken Books List Done
+3. Return Book Done
+4. Add Taken Books Done 
+5. Add Total Books Done
+6. Add Book ID TO TAKENBOOKS Done
+
+
+DELETE EVERYTHING AND JUST ADD Mainadmin@1 ACCOUNT
+NEW LIST:
+1.Sign Up then Sign In With Email as a student				+
+2.Sign Up then Sign In With Email as a teacher 				+
+3.Sign Up then Sign In With Email as an admin				+
+4.Sign Up then Sign In With UniversityNumber as a student		+
+5.Sign Up then Sign In With UniversityNumber as a teacher		+
+6.Sign Up then Sign In With UniversityNumber as an admin		+
+6.5 APPROVE UNIVERSITY OF TEACHERS AND ADMINS.				+
+7.Open Books With Student						+	
+8.Open MyBooks With Student 						+
+9.Open Books With teacher						+
+10.Open MyBooks With teacher						+
+11.Open Books With Admin						+
+12.Open MyBooks With Admin						+
+13.Open UserApproval with Admin						+		
+14.Open BookReturnApproval with Admin					+
+15.search for title in books						+
+16.search for author in books						+
+17.search for category in books						+
+18.search with instockonly for title in books				+
+19.search with instockonly for author in books				+
+20.search with instockonly for category in books			+
+21.search with byfirstletter for title in books				+
+22.search with instockonly and byfirstletter for title  in books			+
+23.search with instockonly and byfirstletter for author in books (shouldnt work)	+
+24.search with instockonly and byfirstletter for category in books (shouldnt work)	+
+25.press on rent book without selecting . in books					+
+26.pressing on rent then no in books							++(BUG) WRONG BOOK NAME (Bug FIxed)
+27.pressing on rent then yes as a student on 2 acc in books then checking them in taken books and checking books list and users list			+
+28.pressing on rent then yes as a teacher on 2 acc in books then checking them in taken books and checking books list and users list			+
+29.pressing on rent then yes as an admin on 2 acc in books then checking them in taken books and checking books list and users list			+
+30.search for title in Mybooks			+
+31.search for author in Mybooks			+
+32.search for category in Mybooks			+
+33.searching with firstletter title in mybooks
+34.searching with firstletter author in mybooks (shouldnt work) 		-+
+35.searching with firstletter category in mybooks (shouldnt work)		-+STOPPED CHECKING HERE (BUG) (fixed)
+36.clikcing return without selecting						+
+37.return then no								+
+38.Returning All Books as Student									+
+39.Returning All Books as Teacher									+
+40.Returning All Books as Admin 									+
+41.after returning checking takenbooks isreturned should be 1 and nothing else changed.			+
+42.pressing on rent triple then yes as a student 2 acc in books then checking them in taken books and checking books list and users list (One Should Work and the other shouldnt)
+43.pressing on rent triple then yes as a teacher 2 acc in books then checking them in taken books and checking books list and users list 
+44.pressing on rent triple  then yes as an admin 2 acc in books then checking them in taken books and checking books list and users list
+45.select and return then yes as a student (there should be 1 book)(Limit should be 0) return 1 and keep 1
+46.select and return 2 then yes as a teacher(there should be 3 book)(Limit should be unlimited) return 1 and keep 1
+47.select and return 2 then yes as a admin(there should be 3 book)(Limit should be unlimited)) return 1 and keep 1
+48.Registering 4 times students 2 with uni and 2 email
+49.Registering 4 times teachers 2 with uni and 2 email
+50.Registering 4 times Admins 2 with uni and 2 email
+51.checking ranks with admins
+52.searching Email in userapproval
+53.searching name in userapproval
+54.searching surname in userapproval
+55.searching ID in userapproval
+56.searching universityNumber in userapproval
+57.As Admin Approving ranks for teachers as teacher
+58.As Admin Approving ranks for admins as admins
+59.signing in with teachers account checking books and my books / LIMIT 
+60.signing in with teachers account checking books and my books / LIMIT 
+61.AS Admin opening returned books and checking the returned books
+62.searching books as Name
+63.searching books as author
+64.searching books as ID
+65.searching books as Email
+66.searching books as UniversityNumber
+67.As Admin approving 1 returned books for all 
+68.checking back all quantity
+69.checking total books taken
+70.checking current books taken
+71.Checking Limits
+72.checking returned books lists
+73.rent 1 more book for each account
+74.checking it back in approval
+75.approving everything
+76.checking back each user
+77.FINISHED
+78.
+79.
+80.
+(IN THIS LIST)
+1.Student@1
+2.1111111111
+3.Teacher@1
+4.2222222222
+5.Admins@1
+6.3333333333
+
+New List Back Again :
+1.BUG WITH SEARCH IN BOOKAPPROVAL
+2.Test the search in user approval
+3.FIX MOBILE NUMBER GOD DAMN IT
+4.

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Calculator</title>
+    <link rel="stylesheet" href="./StyleSheets/StyleSheet.css">
+
+
+
+
+
+
+</head>
+
+<body id="mainBody">
+    <div id="Layout">
+        <h1 id="heading">Online Calculator</h1>
+        <div id="NavBar">
+            <a href="./index.html" class="navLink">Standard</a>
+            <a href="./Html/programmer.html" class="navLink">Programmer</a>
+            <a href="./Html/Scientific.html" class="navLink">Scientific</a>
+        </div>
+    </div>
+
+    <div id="StandardCalc">
+        <br>
+        <label for="standardMainResult">Result:</label>
+
+        <input type="text" name="" id="standardMainResult" readonly><br><br>
+        <label style="font-size: 30px;" for="standardMainText">Display:</label>
+        <input id="standardMainText" type="text">
+        <br>
+        <button class="standardButtons" id="standardNum1">1</button>
+        <button class="standardButtons" id="standardNum2">2</button>
+        <button class="standardButtons" id="standardNum3">3</button>
+        <button class="standardButtons" id="standardPlus">+</button><br>
+        <button class="standardButtons" id="standardNum4">4</button>
+        <button class="standardButtons" id="standardNum5">5</button>
+        <button class="standardButtons" id="standardNum6">6</button>
+        <button class="standardButtons" id="standardMinus">-</button><br>
+        <button class="standardButtons" id="standardNum7">7</button>
+        <button class="standardButtons" id="standardNum8">8</button>
+        <button class="standardButtons" id="standardNum9">9</button>
+        <button class="standardButtons" id="standardMultiply">*</button><br>
+        <button class="standardButtons" id="standardEqual">=</button>
+        <button class="standardButtons" id="standardNum0">0</button>
+        <button class="standardButtons" id="standardDot">.</button>
+        <button class="standardButtons" id="standardDivide">/</button><br>
+        <button class="standardButtons" id="standardDel">Del</button>
+        <button class="standardButtons" style="position: relative; top: 5px;" id=""></button>
+        <button class="standardButtons" id="standardC">C</button>
+        <button class="standardButtons" id="standardMod">%</button><br>
+
+
+
+        <div id="standardFuncButtonsDiv">
+            <button class="standardFuncButtons" id="standardRandomNumber">Generate a random number</button><br>
+            <button class="standardFuncButtons" id="standardTotalNumbers">Total Number Of Digits in the
+                result</button><br>
+            <button class="standardFuncButtons" id="standardTotalNumbersBefore">Number of Digits in the result before
+                the decimal point (Whole Numbers)</button><br>
+            <button class="standardFuncButtons" id="standardTotalNumbersAfter">Number of Digits in the result after the
+                decimal point (Decimal Numbers)</button>
+        </div>
+
+
+
+    </div>
+    <script src="./Scripts/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,200 @@
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\C# Framework Console\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\2\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\3.After Finishing Registeration\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\4. After Finishing Login\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\5.After changing , fixing the Login and Register Rules\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\6.Started coding the calculator (IN CASE THE PROF DOESNT ACCEPT IT I CAN RECODE IT THE WAY HE WANTS)\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\7\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\bin\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\9.Editing Views\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\bin\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.ADDiing\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\bin\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\10.After Sorting and Adding Global Variable Class\Calculator\Calculator\obj\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\bin\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\11. Using the Dictionary\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\bin\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\App.g.cs
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\MainWindow.baml
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.g.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.application
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Private\Ammar's Programs\WPF\2. Calculator Project For University\12. Trying to put all the methods in classes\Calculator\Calculator\obj\Debug\Calculator.pdb

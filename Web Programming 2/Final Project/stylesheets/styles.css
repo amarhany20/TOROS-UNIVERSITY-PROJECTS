@@ -1,0 +1,227 @@
+/* element selector */
+
+/* class selector */
+
+/* home page */
+.home-body {
+  background-image: url('/images/Pizza-bg1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  margin: 10px 0px;
+  font-family: sans-serif;
+  color: whitesmoke; 
+  min-width: 300px;
+}
+.overlay-color {
+  background-color: black;
+  position: absolute;
+  opacity: 0.6;
+  top: 0px;
+  width: 100%;
+  height: 193px;
+  margin: auto;
+  z-index: -1;
+  min-width: 300px;
+}
+.home-top-container {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  padding-bottom: 100px;
+}
+.home-links {
+
+  color: white;
+  padding: 0px 10px;
+  position: relative; 
+  top: 6px;
+}
+.home-navigation-bar{
+    background-color:black ;
+    height :35px;
+    padding-top: 5px;
+    text-align: left;
+}
+.home-buttons-container {
+  text-align: center;
+  padding: 6% 0px 20% 0px;
+  width: 30%;
+  position: relative;
+  margin: auto;
+  min-width: 280px;
+}
+.customer-button {
+  font-size: 40px;
+  min-width: 280px;
+  width: 80%;
+  padding: 10px 0;
+}
+.administration-button {
+  font-size: 40px;
+  min-width: 280px;
+  width: 80%;
+  padding: 10px 0;
+}
+.home-main-container{
+    
+    width: 25%;
+    margin: auto;
+    line-height: 60px;
+    font-size: 30px;
+    min-width: 300px;
+    height: 300px;
+    z-index: 1;
+}
+.home-main-icons{
+    float: left;
+    display: inline;
+    width: 60px;
+}
+.overlay-color2{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    z-index: -1;
+    opacity: 0.5;
+    position: absolute;
+    filter:blur(4px);
+    min-width: 300px;
+}
+.home-bottom-container{
+    margin: auto;
+    width: 100%;
+    background-color: black;
+    position:fixed;
+    bottom:0;
+    
+}
+/* Login Page */
+.login-main-containter{
+padding: 0 0 50px 0;
+text-align: center;
+    width: 30%;
+    margin: auto;
+    min-width: 300px;
+    font-size: 15px;
+}
+.signup-main-container{
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    min-width: 300px;
+    padding-bottom: 50px;
+    font-size: 15px;
+}
+.signup-container{
+    text-align: right;
+    padding-right: 10%;
+}
+.overlay-color3{
+    background-color: black;
+    width: 100%;
+    height: 450px;
+    margin: auto;
+    opacity: 0.7;
+    position: relative;
+    z-index: -1;
+    bottom: 475px;
+    min-width: 300px;
+    max-width: 600px;
+    filter: blur(10px);
+}
+/* ordering css */
+.ordering-region{
+    word-spacing: 5px;
+}
+.ordering-type{
+    word-spacing: 5px;
+}
+.ordering-overlay-color{
+    background-color: black;
+    width: 100%;
+    height: 350px;
+    margin: auto;
+    opacity: 0.7;
+    position: relative;
+    z-index: -1;
+    bottom: 255px;
+    min-width: 300px;
+    max-width: 600px;
+    filter: blur(15px);
+}
+/* ordering2 css */
+.ordering2-pizza-table{
+    /* margin: auto;
+    margin-bottom: 60px;
+    max-height: 320px;
+    object-fit: contain; */
+    width: 100%;
+    max-width: 1100px;
+    min-width: 300px;
+    
+}
+.ordering2-beverage-table{
+/* margin: auto;
+margin-bottom: 60px;
+max-height: 240px;
+object-fit: contain; */
+}
+.ordering2-dessert-table{
+/* margin: auto;
+max-height: 240px;
+object-fit: contain; */
+}
+.ordering2-tables-layout{
+    /* text-align: center;
+    margin: auto;
+    min-width: 300px;
+    width: 55%;
+    max-width: 1000px;
+    table-layout: fixed;
+    object-fit: contain; */
+    margin: 0 auto 50px auto;
+    
+    min-width: 300px;
+   
+    border-collapse: collapse;
+    border: 3px solid wheat;
+    
+}
+
+.ordering2-overlay-color{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    opacity: 0.8;
+    position: absolute;
+    z-index: -1;
+    min-width: 300px;
+    top: 180px;
+    filter: blur(10px);
+}
+.ordering2-all-tables{
+    /* margin: auto;
+    min-width: 300px;
+    max-height: 800px;
+    object-fit: contain; */
+    
+    
+    
+}
+.ordering2-all-tables td {
+    /* overflow: auto;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 2vmin;*/
+    border: 0.1px solid gray;
+  }
+  .ordering2-all-tables th {
+    /* overflow: auto;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 2vmin; */
+    border: 0.1px solid gray;
+    
+  }

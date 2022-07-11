@@ -1,0 +1,101 @@
+﻿<Window x:Name="mainWindow" x:Class="Cashier.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cashier"
+        mc:Ignorable="d"
+        Title="Cashier System" MinWidth="800" MinHeight="600" Width="1280" Height="720"  WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow" ResizeMode="CanResize" Background="#191A19">
+    
+    <!-- Resources-->
+    
+    <Window.Resources>
+        <Style x:Key="TextblockColor1" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Foreground" Value="#D8E9A8"/>
+        </Style>
+        <Style x:Key="ButtonColor1" TargetType="Button">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Foreground" Value="#D8E9A8"/>
+            <Setter Property="Background" Value="#1E5128"/>
+        </Style>
+    </Window.Resources>
+    
+    <!-- Grid Definitions-->
+    
+    <Grid ShowGridLines="False">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--            User Info           -->
+        <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="userInfo" Style="{StaticResource TextblockColor1}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </StackPanel>
+        <!-- Orders Datagrid Search-->
+
+        <StackPanel  Margin=" 10"  Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="1"  Style="{StaticResource TextblockColor1}" Text="Search: "/>
+                <TextBox TextChanged="textbox_Search_TextChanged" x:Name="textbox_Search" Grid.Column="2" Margin="10px 0" HorizontalAlignment="Stretch"/>
+                <Button x:Name="btn_OrdersSearch" Padding="10px 0"  Grid.Column="3" Style="{StaticResource ButtonColor1}" Content="Search" Click="btn_OrdersSearch_Click" />
+            </Grid>
+        </StackPanel>
+        
+        <!-- Orders Datagrid-->
+        
+        <DockPanel Margin="10" Grid.Row="1">
+            <DataGrid AutoGeneratingColumn="dg_Orders_AutoGeneratingColumn" x:Name="dg_Orders"  IsReadOnly="True" SelectionMode="Single" SelectionChanged="dg_Orders_SelectionChanged" />
+        </DockPanel>
+
+        <!-- Main Menu Buttons -->
+
+        <StackPanel HorizontalAlignment="Stretch"  MinWidth="100" Margin="10px" Grid.Column="1" Grid.Row="1">
+            <Button x:Name="btn_NewOrder" Click="btn_NewOrder_Click" Padding="0 10" Width="auto" Style="{StaticResource ButtonColor1}" Margin="10px" Content="New Order"   />
+            <Button x:Name="btn_EditItems"  Padding="0 10" Width="auto" Style="{StaticResource ButtonColor1}" Margin="10px" Content="Edit Items" Click="btn_EditItems_Click" Visibility="Hidden" />
+            <Button x:Name="btn_EditUsers"  Padding="0 10" Width="auto" Style="{StaticResource ButtonColor1}" Margin="10px" Content="Edit Users" Click="btn_EditUsers_Click" Visibility="Hidden" />
+            <Button x:Name="btn_EditOrders"  Padding="0 10" Width="auto" Style="{StaticResource ButtonColor1}" Margin="10px" Content="Edit Orders" Click="btn_EditOrders_Click" Visibility="Hidden" />
+        </StackPanel>
+
+        <!-- Order Details Datagrid Search -->
+
+        <StackPanel  Margin="10 10"  Grid.Row="0" Grid.Column="2" HorizontalAlignment="Stretch">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="1"  Style="{StaticResource TextblockColor1}" Text="Search: "/>
+                <TextBox TextChanged="textbox_OrderDetailsSearch_TextChanged" x:Name="textbox_OrderDetailsSearch" Grid.Column="2" Margin="10px 0" HorizontalAlignment="Stretch"/>
+                <Button Click="button_OrderDetailsSearch_Click" x:Name="button_OrderDetailsSearch" Padding="10px 0"  Grid.Column="3" Style="{StaticResource ButtonColor1}" Content="Search" Height="22" VerticalAlignment="Top" />
+            </Grid>
+        </StackPanel>
+
+        <!-- Order Details Datagrid -->
+        
+        <DockPanel Margin="10" Grid.Column="2" Grid.Row="1">
+            <DataGrid x:Name="dg_OrderDetails"  IsReadOnly="True" SelectionMode="Single"/>
+        </DockPanel>
+
+    </Grid>
+</Window>

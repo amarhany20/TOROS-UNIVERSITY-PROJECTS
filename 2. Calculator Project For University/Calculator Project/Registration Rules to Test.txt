@@ -1,0 +1,14 @@
+For the username
+1.Lower Case
+2.Space
+3. Less than 3
+4. Numbers at the start
+5. Invalid Characters 
+
+For the Password
+
+1.less than 8 characters
+2.doesnt have an upper case character
+3.doesnt have a lower case character
+4.doesnt have a number
+5.Repeat Password

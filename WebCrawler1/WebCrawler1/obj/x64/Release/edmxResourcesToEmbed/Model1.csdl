@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WebCrawlerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CrawledUrlsTable">
+    <Key>
+      <PropertyRef Name="UrlHash" />
+    </Key>
+    <Property Name="UrlHash" Type="String" MaxLength="64" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="UrlName" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DiscoverDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="LinkDepthLevel" Type="Int16" Nullable="false" />
+    <Property Name="ParentUrlHash" Type="String" MaxLength="64" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="LastCrawlingDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="SourceCode" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="FetchedTime" Type="Int32" Nullable="false" />
+    <Property Name="CrawledPageTitle" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CompressionPercent" Type="Byte" Nullable="false" />
+    <Property Name="IsCrawled" Type="Boolean" Nullable="false" />
+    <Property Name="HostUrl" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="TryCounter" Type="Byte" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DBWebCrawlerDatabase" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CrawledUrlsTables" EntityType="Self.CrawledUrlsTable" />
+  </EntityContainer>
+</Schema>

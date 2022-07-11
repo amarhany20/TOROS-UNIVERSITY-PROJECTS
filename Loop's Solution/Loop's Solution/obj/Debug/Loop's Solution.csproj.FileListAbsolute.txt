@@ -1,0 +1,7 @@
+E:\Private\Ammar's Programs\C# Framework Console\Learings\1\Loop's Solution\Loop's Solution\obj\Debug\Loop's Solution.csprojAssemblyReference.cache
+E:\Private\Ammar's Programs\C# Framework Console\Learings\1\Loop's Solution\Loop's Solution\obj\Debug\Loop's Solution.csproj.CoreCompileInputs.cache
+E:\Private\Ammar's Programs\C# Framework Console\Learings\1\Loop's Solution\Loop's Solution\bin\Debug\Loop's Solution.exe.config
+E:\Private\Ammar's Programs\C# Framework Console\Learings\1\Loop's Solution\Loop's Solution\bin\Debug\Loop's Solution.exe
+E:\Private\Ammar's Programs\C# Framework Console\Learings\1\Loop's Solution\Loop's Solution\bin\Debug\Loop's Solution.pdb
+E:\Private\Ammar's Programs\C# Framework Console\Learings\1\Loop's Solution\Loop's Solution\obj\Debug\Loop's Solution.exe
+E:\Private\Ammar's Programs\C# Framework Console\Learings\1\Loop's Solution\Loop's Solution\obj\Debug\Loop's Solution.pdb

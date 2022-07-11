@@ -1,0 +1,72 @@
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\bin\Debug\Cashier.exe.config
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\bin\Debug\Cashier.exe
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\bin\Debug\Cashier.pdb
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.csproj.AssemblyReference.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.csproj.SuggestedBindingRedirects.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\MainWindow.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\App.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier_MarkupCompile.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier_MarkupCompile.lref
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\MainWindow.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.g.resources
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.Properties.Resources.resources
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.csproj.GenerateResource.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.csproj.CoreCompileInputs.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.exe
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.pdb
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\New_Order.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\New_Order.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Edit_Items.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Edit_Items.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\InsertWindow.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\InsertWindow.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\SignIn.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\SignIn.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\EditOrders.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\EditOrders.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Order_Details_Window.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Order_Details_Window.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\EditUsers.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\EditUsers.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\AddItemToOrderDetails.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\AddItemToOrderDetails.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\AddNewUser.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\AddNewUser.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\bin\Debug\Cashier.exe.config
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\bin\Debug\Cashier.exe
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\bin\Debug\Cashier.pdb
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.csproj.AssemblyReference.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.csproj.SuggestedBindingRedirects.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\AddItemToOrderDetails.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\AddNewUser.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\EditUsers.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Edit_Items.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\InsertWindow.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\MainWindow.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\New_Order.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Order_Details_Window.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\SignIn.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\EditOrders.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\App.g.cs
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier_MarkupCompile.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier_MarkupCompile.lref
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\AddItemToOrderDetails.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\AddNewUser.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\EditUsers.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Edit_Items.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\InsertWindow.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\MainWindow.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\New_Order.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Order_Details_Window.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\SignIn.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\EditOrders.baml
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.g.resources
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.Properties.Resources.resources
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.csproj.GenerateResource.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.csproj.CoreCompileInputs.cache
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.exe
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.pdb
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\bin\Debug\Cashier.exe.manifest
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\bin\Debug\Cashier.application
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.exe.manifest
+C:\Users\ammar\OneDrive\Current Files\Software Engineering\195050902_Ammar Hany Ezeldin Abdelrazik_Software Engineering\Cashier System\Cashier\Cashier\obj\Debug\Cashier.application

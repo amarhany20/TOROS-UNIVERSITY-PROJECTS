@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Student.StudentMainMenu">
+  <grid id="27dc6" binding="mainPanel" layout-manager="GridLayoutManager" row-count="2" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="850" height="535"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="7015c" layout-manager="GridLayoutManager" row-count="4" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="3" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="16"/>
+        </properties>
+        <border type="none" title="Main Menu" title-justification="2" title-position="3">
+          <font name="Lucida Sans Typewriter" size="16"/>
+        </border>
+        <children>
+          <component id="7c9d6" class="javax.swing.JButton" binding="button_Courses">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <horizontalTextPosition value="11"/>
+              <text value="Courses"/>
+            </properties>
+          </component>
+          <component id="147ba" class="javax.swing.JButton" binding="button_Announcements">
+            <constraints>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <horizontalTextPosition value="11"/>
+              <text value="Announcements"/>
+            </properties>
+          </component>
+          <component id="7fa87" class="javax.swing.JButton" binding="button_Grades">
+            <constraints>
+              <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <horizontalTextPosition value="11"/>
+              <text value="Grades"/>
+            </properties>
+          </component>
+          <component id="5614a" class="javax.swing.JButton" binding="button_MyInfo">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <horizontalTextPosition value="11"/>
+              <text value="My Information"/>
+            </properties>
+          </component>
+          <component id="868ab" class="javax.swing.JButton" binding="button_WeeklySchedule">
+            <constraints>
+              <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <horizontalTextPosition value="11"/>
+              <text value="Weekly Schedule"/>
+            </properties>
+          </component>
+          <component id="31b7c" class="javax.swing.JButton" binding="button_ExamSchedule">
+            <constraints>
+              <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <horizontalTextPosition value="11"/>
+              <text value="Exam Schedule"/>
+            </properties>
+          </component>
+          <component id="2dfeb" class="javax.swing.JButton" binding="button_CourseSelection">
+            <constraints>
+              <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+            </constraints>
+            <properties>
+              <font name="Lucida Sans Typewriter" size="16"/>
+              <horizontalTextPosition value="11"/>
+              <text value="Course Selection"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <component id="1c30a" class="javax.swing.JLabel" binding="label_ID">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="16"/>
+          <text value="ID: 1"/>
+        </properties>
+      </component>
+      <component id="64e9b" class="javax.swing.JLabel" binding="label_User">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="16"/>
+          <text value="User: user1"/>
+        </properties>
+      </component>
+      <component id="32492" class="javax.swing.JButton" binding="button_SignOut">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Lucida Sans Typewriter" size="16"/>
+          <horizontalTextPosition value="11"/>
+          <text value="Sign Out"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

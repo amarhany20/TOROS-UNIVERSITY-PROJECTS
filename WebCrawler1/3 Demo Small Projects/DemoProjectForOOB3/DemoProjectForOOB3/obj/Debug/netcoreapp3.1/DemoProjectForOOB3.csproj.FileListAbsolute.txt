@@ -1,0 +1,12 @@
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\bin\Debug\netcoreapp3.1\DemoProjectForOOB3.exe
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\bin\Debug\netcoreapp3.1\DemoProjectForOOB3.deps.json
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\bin\Debug\netcoreapp3.1\DemoProjectForOOB3.runtimeconfig.json
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\bin\Debug\netcoreapp3.1\DemoProjectForOOB3.runtimeconfig.dev.json
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\bin\Debug\netcoreapp3.1\DemoProjectForOOB3.dll
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\bin\Debug\netcoreapp3.1\DemoProjectForOOB3.pdb
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\obj\Debug\netcoreapp3.1\DemoProjectForOOB3.AssemblyInfoInputs.cache
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\obj\Debug\netcoreapp3.1\DemoProjectForOOB3.AssemblyInfo.cs
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\obj\Debug\netcoreapp3.1\DemoProjectForOOB3.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\obj\Debug\netcoreapp3.1\DemoProjectForOOB3.dll
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\obj\Debug\netcoreapp3.1\DemoProjectForOOB3.pdb
+C:\Users\Ammar\source\repos\DemoProjectForOOB3\DemoProjectForOOB3\obj\Debug\netcoreapp3.1\DemoProjectForOOB3.genruntimeconfig.cache

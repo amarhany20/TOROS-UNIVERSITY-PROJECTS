@@ -1,0 +1,18 @@
+//Notes for Hocam : The code below is made if you want the 3 rules of lower and upper and number to be checked in one process in the login Password Rules.
+            //if (!newPassword.Any(char.IsUpper) || !newPassword.Any(char.IsLower) || !newPassword.Any(char.IsNumber))
+            //{
+            //    MessageBox.Show($"Invalid Password!\nThe password must have 1 upper case letter , 1 lower case letter and a number.");
+            //    return;
+            //}
+            //Notes for Hocam : The code above is made if you want the 3 rules of lower and upper and number to be checked in one process.
+            //..............................
+            //Rule 2 : Banning invalid Charactters 
+            //IF U WANT FULL INVALID CHARACTERS BANNING FROM THE PASSWORD for the login the code is ready below
+            //foreach (var vrCheckingInvalidCharacters in lstInvalidCharacters)
+            //{
+            //    if (newRegisterPassword.Contains(vrCheckingInvalidCharacters.ToString()))
+            //    {
+            //        MessageBox.Show($"Invalid Password!\nInalid Character \"{vrCheckingInvalidCharacters}\" detected.\nPlease erase it as  % - $ / \\ ( ) [ ] , !" + " { } = & ? \" ’ “ ” ‘ : Characters are not accepted. ");
+            //        return;
+            //    }
+            //}

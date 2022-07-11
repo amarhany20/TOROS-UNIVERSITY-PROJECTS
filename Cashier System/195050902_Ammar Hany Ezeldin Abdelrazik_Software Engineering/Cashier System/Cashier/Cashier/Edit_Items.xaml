@@ -1,0 +1,123 @@
+﻿<Window Name="window_Edit_Items" x:Class="Cashier.Edit_Items"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cashier"
+        mc:Ignorable="d"
+        Title="Cashier System" MinWidth="800" MinHeight="600" Width="1280" Height="720"  WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow" ResizeMode="CanResize" Background="#191A19">
+    <Window.Resources>
+        <Style x:Key="TextblockColor1" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Foreground" Value="#D8E9A8"/>
+        </Style>
+        <Style x:Key="Button1" TargetType="Button">
+            <Setter Property="FontSize" Value="15" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Foreground" Value="#D8E9A8"/>
+            <Setter Property="Background" Value="#1E5128"/>
+            <Setter Property="Padding" Value="10 10"/>
+            <Setter Property="Margin" Value="15 0"/>
+        </Style>
+    </Window.Resources>
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Search -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition  Width="2*"/>
+                <ColumnDefinition  Width="auto"/>
+                <ColumnDefinition  Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Margin="10" Grid.Column="1" Text="Search:" Style="{StaticResource TextblockColor1}"/>
+            <TextBox TextChanged="textbox_Search_TextChanged" x:Name="textbox_Search" Margin="10" Grid.Column="2"/>
+            <Button x:Name="button_Search" Content="Search" Style="{StaticResource Button1}" Padding="10 0" Margin="10" Grid.Column="3" Click="button_Search_Click"/>
+        </Grid>
+         <!-- Datagrid -->
+        <DataGrid SelectionChanged="dg_Items_SelectionChanged" x:Name="dg_Items" Margin="10" Grid.Row="1" IsReadOnly="True" CanUserAddRows="False" SelectionMode="Single"/>
+        
+        <!-- Textboxs -->
+
+        <Grid Grid.Row="2">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*">
+                </RowDefinition>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <DockPanel Margin="5 0" Grid.Column="0">
+                <TextBlock Text="Name: " Style="{StaticResource TextblockColor1}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox x:Name="textbox_Name" Margin="10"/>
+            </DockPanel>
+            <DockPanel Margin="5 0" Grid.Column="1">
+                <TextBlock Text="Category:" Style="{StaticResource TextblockColor1}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox x:Name="textbox_Category" Margin="10"/>
+            </DockPanel>
+            <DockPanel Margin="5 0" Grid.Column="2">
+                <TextBlock Text="Barcode:" Style="{StaticResource TextblockColor1}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox x:Name="textbox_Barcode" Margin="10"/>
+            </DockPanel>
+            <DockPanel Margin="5 0" Grid.Column="3">
+                <TextBlock Text="Price:" Style="{StaticResource TextblockColor1}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox DataObject.Pasting="textbox_Price_Pasting" PreviewTextInput="textbox_Price_PreviewTextInput" x:Name="textbox_Price" Margin="10"/>
+            </DockPanel>
+                <DockPanel Margin="5 0" Grid.Column="4">
+                <TextBlock Text="Stock:" Style="{StaticResource TextblockColor1}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBox DataObject.Pasting="textbox_stock_Pasting" PreviewTextInput="textbox_stock_PreviewTextInput" x:Name="textbox_Stock" Margin="10"/>
+            </DockPanel>
+            </Grid>
+            <DockPanel Margin="5 0" Grid.Row="1">
+                <TextBlock Text="Description:" Style="{StaticResource TextblockColor1}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBox   TextWrapping="Wrap" AcceptsReturn="True"  x:Name="textbox_Description" Margin="10"/>
+            </DockPanel>
+        </Grid>
+
+        <!-- Buttons -->
+        <Grid Grid.Row="3">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <DockPanel Margin="5 0" Grid.Column="0">
+                <Button Click="btn_Back_Click" x:Name="btn_Back" Content="Back" Style="{StaticResource Button1}" Margin="20 10"/>
+            </DockPanel>
+            <DockPanel Margin="5 0" Grid.Column="1">
+                <Button x:Name="btn_Insert"  Content="Insert" Style="{StaticResource Button1}" Margin="20 10" Click="btn_Insert_Click"/>
+            </DockPanel>
+            <DockPanel Margin="5 0" Grid.Column="2">
+                <Button x:Name="button_Update" Content="Update Selected" Style="{StaticResource Button1}" Margin="20 10" Click="button_Update_Click"/>
+            </DockPanel>
+            <DockPanel Margin="5 0" Grid.Column="3">
+                <Button x:Name="btn_Hide_Item"  Content="Show/Hide" Style="{StaticResource Button1}" Margin="20 10" Click="btn_Hide_Item_Click"/>
+            </DockPanel>
+            <DockPanel Margin="5 0" Grid.Column="4">
+                <Button x:Name="btn_Delete"  Content="Delete" Style="{StaticResource Button1}" Margin="20 10" Click="btn_Delete_Click"/>
+            </DockPanel>
+        </Grid>
+        
+        
+    </Grid>
+</Window>
